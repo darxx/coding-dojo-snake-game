@@ -7,8 +7,9 @@ Google can be used at any time.
 
 ## Agenda
 1. Introduction
-2. Coding
-3. Retrospective
+2. Work planing
+3. Coding
+4. Retrospective
 
 ## Information About 
 ### Training
