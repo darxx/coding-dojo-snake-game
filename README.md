@@ -11,7 +11,7 @@ Google can be used at any time.
 3. Coding
 4. Retrospective
 
-## Information About 
+## Information About
 ### Training
 
 We're going to attempt to build a game called Snake using Angular.
@@ -42,5 +42,4 @@ User should be able to control snake using keyboard.
 ## Extra points
 User should be able to set best score
 User should be able to update leader board
-
 
